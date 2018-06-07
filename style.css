@@ -16,47 +16,34 @@ header {
     padding: 20px;
     margin-bottom: 10px;
     background: #ebebeb;
-    width: 960px;
 }
 
 nav {
     padding: 20px;
     margin-bottom: 20px;
     background: #ebebeb;
-    width: 960px;
 }
 
 section {
     float: left;
     overflow: hidden;
     width: 495px;
-    height: 250px;
+    height: 265px;
     padding: 20px;
     background: #ebebeb;
     margin-bottom: 10px;
 }
 
 article {
-     /* float: left; */
-    /* display: inline-block; */
-    /* overflow: auto; */
     width: 456px;
     height: 200px;
     padding: 10px;
     margin: 20px auto 0;
-    /* margin-left: 5px; */
-    /* margin-right: 5px; */
     background: #777;
     color: #ebebeb;
 }
 
 h1 {
-        /* float: left; */
-    /* display: inline-block; */
-    /* overflow: auto; */
-    /* clear: left; */
-    /* width: 465px; */
-    /* height: 25px; */
     padding: 15px;
     font-weight: bold;
     background: #ebebeb;
@@ -65,10 +52,6 @@ h1 {
 }
 
 p {
-    /* float: left; */
-    /* display: inline-block; */
-    /* width: 465px; */
-    /* height: 25px; */
     padding: 14px;
     background: #ebebeb;
     color: #777;
@@ -77,7 +60,7 @@ p {
 aside {
     float: right;
     width: 465px;
-    height: 250px;
+    height: 265px;
     padding: 20px;
     background: #ebebeb;
 }
@@ -87,5 +70,4 @@ footer {
     padding: 20px;
     margin-top: 20px;
     background: #ebebeb;
-    /* width: 960px; */
 }
